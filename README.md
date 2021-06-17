@@ -17,4 +17,4 @@ A program that sends outlook mail notification when a user has logged into their
   
   
   Note: Patch was run on only some IP adresses (6 Desktops connected on the same LAN) to track login time.
-  The IP address was discovered by running the program in ip-finder repository.
+  The IP address was discovered by running the program in ip-finder repository. (https://github.com/harshvsthakur/ip-finder)
